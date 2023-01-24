@@ -1,4 +1,4 @@
-import {fischArray} from "/data.js"
+import {fischArray} from "./data.js"
 
 const fischArtenContainer = document.getElementById("fisch-arten-container")
 const selectedFisch = document.createElement("div")
